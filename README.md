@@ -19,7 +19,7 @@ There are no **optional** features are implemented
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/dtwfiGh.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/dtwfiGh.gif' title='Article Search' width='' alt='Video Walkthrough of Article Search' />
 
 GIF created with ScreenToGif
 
